@@ -45,18 +45,13 @@ body {
 }
 
 .logo {
-  width: 72px;
-  height: 72px;
-  border-radius: 20px;
-  background: linear-gradient(135deg, var(--sunset), var(--warm));
-  color: var(--deep);
-  font-weight: 700;
-  display: grid;
-  place-items: center;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  font-size: 0.8rem;
-  border: 2px solid rgba(59, 46, 36, 0.15);
+  width: 92px;
+  height: 92px;
+  border-radius: 18px;
+  border: 2px solid rgba(59, 46, 36, 0.12);
+  object-fit: contain;
+  background: #fff;
+  padding: 8px;
 }
 
 .kicker {
