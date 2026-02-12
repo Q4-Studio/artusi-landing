@@ -1,10 +1,10 @@
 :root {
   --ink: #1b1b1b;
-  --muted: #5d5a56;
-  --sand: #f7f1e7;
-  --warm: #f2d6b3;
-  --sunset: #e5a06a;
-  --deep: #3b2e24;
+  --muted: #4f5b52;
+  --sand: #f4f7f4;
+  --warm: #cfe6d8;
+  --sunset: #86c29a;
+  --deep: #0f2f22;
   --card: #ffffff;
 }
 
@@ -17,9 +17,9 @@ body {
   font-family: "Work Sans", "Helvetica Neue", sans-serif;
   color: var(--ink);
   background:
-    radial-gradient(circle at 20% 20%, rgba(242, 214, 179, 0.6), transparent 55%),
-    radial-gradient(circle at 80% 10%, rgba(229, 160, 106, 0.55), transparent 45%),
-    linear-gradient(180deg, #fffaf3 0%, #f7f1e7 45%, #f0e4d6 100%);
+    radial-gradient(circle at 20% 20%, rgba(207, 230, 216, 0.6), transparent 55%),
+    radial-gradient(circle at 80% 10%, rgba(134, 194, 154, 0.45), transparent 45%),
+    linear-gradient(180deg, #f6fbf7 0%, #e9f2ec 45%, #dbe7df 100%);
   min-height: 100vh;
 }
 
